@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "94f8ba10-9785-48c9-aba1-eb79aa26a9ec",
+    "name": "Hope Streich Sr.",
+    "phone": "687.768.6282 x99210",
+    "email": "Brandon_McDermott@hotmail.com",
+    "job": "Chief Applications Analyst"
+  },
+  {
+    "id": "fe2bb6fe-93f9-4901-9574-dcae1e6b335f",
+    "name": "Dale Tillman",
+    "phone": "534.417.1106 x126",
+    "email": "Richard_Lindgren87@gmail.com",
+    "job": "Internal Mobility Supervisor"
+  },
+  {
+    "id": "509ad27b-aa94-4dc7-a607-7d4bf54559bd",
+    "name": "Boyd Connelly",
+    "phone": "(903) 756-0314 x50512",
+    "email": "Mireille.Friesen85@hotmail.com",
+    "job": "Corporate Integration Administrator"
+  },
+  {
+    "id": "cea0d4ed-f71b-4745-b454-a3fce61aa419",
+    "name": "Angelina Runte",
+    "phone": "295-836-5168",
+    "email": "Naomie.Kulas67@yahoo.com",
+    "job": "Customer Functionality Technician"
+  },
+  {
+    "id": "f33434e5-30e0-4293-95be-45c61b15779f",
+    "name": "Valerie Toy-Cole",
+    "phone": "758-510-5193 x0470",
+    "email": "Vesta_Upton@yahoo.com",
+    "job": "Future Accountability Architect"
+  }
+]
